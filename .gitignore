@@ -1,0 +1,16 @@
+
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+.streamlit/secrets.toml
+
+# Dataset files
+dataset/
+animal_dataset_starter/dataset/
+
+# Temporary files
+.DS_Store
+Thumbs.db

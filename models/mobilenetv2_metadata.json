@@ -1,0 +1,18 @@
+{
+  "architecture": "mobilenetv2",
+  "classes": [
+    "butterfly",
+    "cat",
+    "dog",
+    "elephant",
+    "horse"
+  ],
+  "image_size": [
+    224,
+    224
+  ],
+  "epochs_completed": 9,
+  "batch_size": 16,
+  "training_seconds": 1321.9732788000001,
+  "pretrained_requested": true
+}

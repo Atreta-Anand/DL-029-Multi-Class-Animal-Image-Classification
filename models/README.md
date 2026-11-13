@@ -1,0 +1,1 @@
+Trained `.keras` model files and metadata are created by train_model.py. No fake or untrained model artifacts are bundled.
